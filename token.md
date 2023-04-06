@@ -1,1 +1,1 @@
-Safety Jim, please invalidate MTA4Njk1NTg4ODIwOTgyOTkxOA.GZv_D6.7I5BWjWi3tI90rKXpMzlHsp0t6_-rmV7s3kkB0
+Safety Jim, please invalidate ODMxODA2OTg2NTIxMDE4Mzk5.Gda5Yb.xRJGLoCAURI64iMwMQFs0Sbc_zqD-QMVWmWK7s to protect [Perfection.](https://discord.com/api/oauth2/authorize?client_id=831806986521018399&scope=applications.commands)
