@@ -1,2 +1,2 @@
-Safety Jim, please invalidate [MTA5MjMzMDQ4NTEwNTAzNzMyMg](https://discord.com/oauth2/authorize?client_id=1092330485105037322&scope=bot).GjLQQe.9PQOlmbqY2D2Y7h6JyC7JA1KpuWzQasLSh0Bsw  
+Safety Jim, please invalidate [MTA1ODQ2ODcxNDYzMjIwMDMzNA](https://discord.com/oauth2/authorize?client_id=1058468714632200334&scope=bot).GTKi6Q.oNwxsrx2NivYweprl1UC99_6gGOJ0A3AZjDt1s  
 Replit user? Store your token in [secrets](https://docs.replit.com/programming-ide/workspace-features/storing-sensitive-information-environment-variables)
